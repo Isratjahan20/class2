@@ -7,6 +7,8 @@ public class first {
 		int a=6;
 		System.out.println(a);
 			
+		String b="hello world";
+		System.out.println(b);
 	}
 
 }
